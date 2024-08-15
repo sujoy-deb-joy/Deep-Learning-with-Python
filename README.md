@@ -17,7 +17,7 @@ Community Contributions: We encourage collaboration! Feel free to contribute you
 
 How to Use This Repository
 Clone the Repository: Start by cloning this repository to your local machine:
-git clone https://github.com/your-username/deep-learning-with-python.git
+git clone [https://github.com/your-username/deep-learning-with-python.git](https://github.com/sujoy-deb-joy/Deep-Learning-with-Python/tree/main)
 
 Explore the Code: Navigate through the folders and explore the notebooks. Run the code, experiment, and adapt it to your own projects.
 Learn and Share: Use this repository as a learning resource. Share your insights, ask questions, and engage with the community through issues and pull requests.
